@@ -7,7 +7,7 @@ parent: "control-bar"
 
 This button allows end-users to export the contents of the grid or reference set selector to an excel file. Please note that constraints by use of search fields and sorting will also be exported.
 
-The excel export function relies on a specific data retrieval method. As such, it is only available in list widgets that use the XPath data source. 
+The excel export function relies on a specific data retrieval method. As such, it is only available in list widgets that use the XPath or microflow as data source. 
 
 ## Common properties
 
